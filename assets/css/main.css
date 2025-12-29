@@ -1553,12 +1553,10 @@ section,
   position: relative;
 }
 
-.fire-slider .fire-slider-item .fire-slider-img {
-  width: 90px;
+.fire-slider .fire-slider-item img {
+  width: 300px;
   border-radius: 10px;
-  border: 6px solid var(--background-color);
-  position: absolute;
-  left: -45px;
+  
 }
 
 .fire-slider .fire-slider-item h3 {
