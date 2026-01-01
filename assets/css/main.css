@@ -1139,6 +1139,16 @@ section,
   overflow: hidden;
 }
 
+#business-infographic {
+  width: 60vw;
+}
+
+@media (max-width: 767px) {
+  #business-infographic {
+    width: 80vw;
+  }
+}
+
 /*--------------------------------------------------------------
 # Alt Services Section
 --------------------------------------------------------------*/
