@@ -1127,6 +1127,19 @@ section,
 }
 
 /*--------------------------------------------------------------
+# Business Model Section
+--------------------------------------------------------------*/
+#business-model {
+  width: 100%;
+  position: relative;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/*--------------------------------------------------------------
 # Alt Services Section
 --------------------------------------------------------------*/
 .alt-services .features-image {
@@ -1605,7 +1618,7 @@ section,
 }
 
 .fire-slider .fire-slider-item p {
-  font-style: italic;
+  font-style: italic;nbu
   margin: 15px auto 15px auto;
 }
 
