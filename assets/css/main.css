@@ -1558,7 +1558,7 @@ section,
 # Fire Slider Section
 --------------------------------------------------------------*/
 .fire-slider .fire-slider-wrap {
-  padding-left: 50px;
+  padding-left: 30px;
 }
 
 .fire-slider .fire-slider-carousel,
@@ -1570,8 +1570,8 @@ section,
   background-color: var(--surface-color);
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   box-sizing: content-box;
-  padding: 30px 30px 30px 60px;
-  margin: 30px 15px;
+  padding: 15px;
+  margin: 15px;
   min-height: 200px;
   position: relative;
 }
