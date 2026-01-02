@@ -1144,7 +1144,7 @@ section,
 }
 
 @media (max-width: 767px) {
-  #business-infographic {
+  #business-infographic img {
     width: 80vw;
   }
 }
