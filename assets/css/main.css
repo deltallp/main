@@ -2958,6 +2958,6 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
-.min-h-65-vh {
-  min-height: 65vh;
+.min-h-75-vh {
+  min-height: 75vh;
 }
